@@ -38,8 +38,7 @@ gclone_para_override = Leave it Blank
 
 🔶 Running it in Heroku:-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Nenokkadine/FClone_Tg_Bot/tree/master)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/roninuserbot/Fclone_Tg_Bot
 1. Create one app in Heroku
 2. Push the Files to Heroku using Heroku CLI
 3. Once its done - go to Telegram Bot you created before and Press **Start**
